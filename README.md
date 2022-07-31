@@ -9,7 +9,7 @@ To Use:
 Error-Codes:
 
   -1  You gotta drag-drop a file onto the exe or provide it with a filepath in any other way.\
-  -2  You can only provide a single file to be hashed and validated\
+  -2  You can only provide a single file to be hashed and/or validated\
   -3  File couldn't be processed or process got interrupted. Try it again. Might also be a failure on my part.\
 <br />
 <br />
