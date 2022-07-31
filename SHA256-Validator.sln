@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SHAComparer", "SHAComparer.vcxproj", "{8FE19F6A-96F8-4D73-8605-4D32ECDC0182}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SHA256-Validator", "SHA256-Validator.vcxproj", "{8FE19F6A-96F8-4D73-8605-4D32ECDC0182}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
