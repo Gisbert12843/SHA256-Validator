@@ -17,5 +17,6 @@ Error-Codes:
 Wanna build your own OpenSSL project and/or work with mine?
 Maybe got confused and frustrated with 10 different and not working versions of OpenSSL?
 
-->  Follow these Instructions: https://www.youtube.com/watch?v=PMHEoBkxYaQ\
-    Plan ahead atleast 2-3 hours to complete everything. There might be a more convenient way, didn't find it myself yet though.\
+->  Follow these Instructions: https://www.youtube.com/watch?v=PMHEoBkxYaQ <br />
+    Plan ahead atleast 2-3 hours to complete everything.\
+    There might be a more convenient way, didn't find it myself yet though.
